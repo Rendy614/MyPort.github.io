@@ -89,7 +89,7 @@ new TypeIt("#type1", {
   loop: true,
   waitUntilVisible: true,
 })
-  .type("IT SUPPORT", { delay: 400 })
+  .type("IT SUPPORT dan Accounting", { delay: 400 })
   .pause(500)
   .delete(9)
   .go();
